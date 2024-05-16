@@ -1,0 +1,108 @@
+Investiga��o De C�ncer relacionado ao Trabalho - Notifica��es registradas no Sinan Net - Brasil
+Notifica��es por CID Cancer
+Per�odo:2019-2023
+"CID Cancer";"Notifica��es"
+"C00   Neopl malig do labio";3
+"C01   Neopl malig da base da lingua";8
+"C02   Neopl malig outr partes e NE da lingua";7
+"C04   Neopl malig do assoalho da boca";4
+"C05   Neopl malig do palato";3
+"C06   Neopl malig outr partes e partes NE da boca";5
+"C09   Neopl malig da amigdala";6
+"C10   Neopl malig da orofaringe";24
+"C11   Neopl malig da nasofaringe";11
+"C12   Neopl malig do seio piriforme";2
+"C13   Neopl malig da hipofaringe";4
+"C14   Neop mal out loc mal def labio cav oral far";2
+"C15   Neopl malig do esofago";45
+"C16   Neopl malig do estomago";109
+"C17   Neopl malig do intestino delgado";5
+"C18   Neopl malig do colon";72
+"C19   Neopl malig da juncao retossigmoide";4
+"C20   Neopl malig do reto";41
+"C21   Neopl malig do anus e do canal anal";12
+"C22   Neopl malig figado vias biliares intra-hepat";17
+"C24   Neopl malig outr partes e NE vias biliares";6
+"C25   Neopl malig do pancreas";40
+"C26   Neopl malig outr mal def aparelho digestivo";4
+"C30   Neopl malig cavidade nasal e do ouvido medio";5
+"C31   Neopl malig dos seios da face";2
+"C32   Neopl malig da laringe";35
+"C33   Neopl malig da traqueia";1
+"C34   Neopl malig dos bronquios e dos pulmoes";248
+"C37   Neopl malig do timo";1
+"C38   Neopl malig do coracao mediastino e pleura";4
+"C39   Neop mal out loc mal def ap resp org intrat";1
+"C40   Neopl malig ossos/cartilag artic membros";2
+"C41   Neopl malig ossos/cartil artic outr loc e NE";6
+"C43   Melanoma malig da pele";45
+"C44   Outr neopl malig da pele";1261
+"C45   Mesotelioma";51
+"C47   Neopl malig nervos perif e sist nerv autonom";1
+"C48   Neopl malig tec moles retro- e peritonio";3
+"C49   Neopl malig tec conjuntivo e outr tec moles";6
+"C50   Neopl malig da mama";144
+"C51   Neopl malig da vulva";1
+"C53   Neopl malig do colo do utero";22
+"C54   Neopl malig do corpo do utero";5
+"C55   Neopl malig do utero porcao NE";1
+"C56   Neopl malig do ovario";14
+"C61   Neopl malig da prostata";134
+"C62   Neopl malig dos testiculos";6
+"C64   Neopl malig do rim exceto pelve renal";17
+"C65   Neopl malig da pelve renal";1
+"C66   Neopl malig dos ureteres";1
+"C67   Neopl malig da bexiga";117
+"C68   Neopl malig de outr orgaos urinarios e NE";2
+"C69   Neopl malig do olho e anexos";3
+"C70   Neopl malig das meninges";1
+"C71   Neopl malig do encefalo";12
+"C72   Neop mal med esp nerv cran out sist nerv cen";1
+"C73   Neopl malig da gland tireoide";9
+"C75   Neopl malig outr gland endocrinas estr relac";1
+"C76   Neopl malig outr localiz e mal definidas";9
+"C77   Neopl malig secund e NE gangl linfaticos";4
+"C78   Neopl malig secund org respirat e digestivos";3
+"C79   Neopl malig secund de outr localiz";2
+"C80   Neopl malig s/especificacao de localiz";82
+"C81   Doenc de Hodgkin";7
+"C82   Linfoma nao-Hodgkin folicular";10
+"C83   Linfoma nao-Hodgkin difuso";38
+"C84   Linfomas de celulas T cutaneas e perifericas";6
+"C85   Linfoma nao-Hodgkin de outr tipos e tipo NE";36
+"C90   Mieloma mult e neopl malig de plasmocitos";26
+"C91   Leucemia linfoide";25
+"C92   Leucemia mieloide";105
+"C93   Leucemia monocitica";1
+"C94   Outr leucemias de celulas de tipo espec";3
+"C95   Leucemia de tipo celular NE";4
+"D03   Melanoma in situ";3
+"D04   Carcinoma in situ da pele";27
+"D05   Carcinoma in situ da mama";2
+"D06   Carcinoma in situ do colo do utero";1
+"D07   Carcinoma in situ outr orgaos genitais e NE";1
+"D09   Carcinoma in situ de outr localiz e das NE";1
+"D37   Neopl comp incerto/desc cav oral e org dig";1
+"D38   Neopl comp inc/desc ouv med org resp intrat";1
+"D39   Neopl comp incerto/desconh org genitais fem";2
+"D43   Neopl comp inc/desc encefalo sist nerv centr";4
+"D46   Sindr mielodisplasicas";6
+"D48   Neopl comp inc/desconh outr localiz e NE";4
+"N�o preeenchidos";603
+"Outros CID�s n�o listados";34
+"Total";3649
+ Fonte: Minist�rio da Sa�de/SVS - Sistema de Informa��o de Agravos de Notifica��o - Sinan Net
+ Notas:
+ 
+ Per�odos Dispon�veis / Per�odo - Correspondem aos anos de notifica��o dos casos.
+ CAT - Comunica��o de acidente de trabalho O campo "CNAE � Ativ. Econ." considera os c�digos referentes as tabelas CNAE 1.0.
+ Dados a partir 2020 do Esp�rito Santo n�o est�o dispon�veis neste sistema, pois s�o oriundos do Sistema de Informa��o e-SUS VS,
+ Dados de 2006 a 2017 revisados e atualizados em 15/08/2022.
+ Dados de 2018 revisados e atualizados em 22/08/2022.
+ Dados de 2019 atualizados em junho de 2023.
+ Dados de 2020 atualizados em junho de 2023, sujeitos � revis�o.
+ Dados de 2021 revisados e atualizados em agosto de 2023, sujeitos � revis�o.
+ Dados de 2022 revisados e atualizados em julho de 2023, sujeitos � revis�o.
+ Dados de 2023 atualizados em janeiro de 2024, sujeitos � revis�o.
+ * Dados disponibilizados no TABNET em fevereiro de 2024.
+ 
